@@ -4,8 +4,9 @@
 
 
 ## Education
+
 Computer Science, B.S.  
-Fall 2000 - Spring 2004
+Fall 2000 - Spring 2004 
 Philadelphia University
 
 ## Systems Proficiency
@@ -29,11 +30,8 @@ Philadelphia University
 ## Experience
 
 ### Sabre Systems, Inc, Warminster PA
-
 #### Senior Software Engineer, IT Department
-
 ##### 2006 - Present
-
 Lead development effort for company's new employee-only Intranet site.
 
 Implemented a single sign-on system that allows employees to navigate between all of the company's employee-only sites and SharePoint portals.
@@ -47,7 +45,6 @@ Installed an external certificate authority (ECA) certificate on a government po
 Responsible for maintaining Sabre's centralized subversion server.
 
 #### Software Engineer, Commericial Division
-
 ##### 2002 - 2006
 
 Aided in the integration of a document management suite into a custom services management application for a third party moving services company

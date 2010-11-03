@@ -4,7 +4,6 @@
 
 
 ## Education
-
 Computer Science, B.S.  
 Fall 2000 - Spring 2004
 Philadelphia University

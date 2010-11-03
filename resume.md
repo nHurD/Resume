@@ -32,7 +32,16 @@ Philadelphia University, Philadelphia, PA
 ### Sabre Systems, Inc, Warminster PA
 #### Senior Software Engineer, IT Department
 ##### 2006 - Present
+
 Lead development effort for company's new employee-only Intranet site.
+
+Implemented a single sign-on system that allows employees to navigate between all of the company's employee-only sites and SharePoint portals.
+
+Aided in the company's effort to reduce rack-space and power consumption by consolidating all of the company's development servers into a single virtual environment using VMware Server and Linux.
+
+Installed an external certificate authority (ECA) certificate on a government portal that is hosted by Sabre Systems' Lexington Park office.
+
+Responsible for maintaining Sabre's centralized subversion server.Lead development effort for company's new employee-only Intranet site.
 
 Implemented a single sign-on system that allows employees to navigate between all of the company's employee-only sites and SharePoint portals.
 
@@ -43,6 +52,8 @@ Mentoring two junior programmers. One full time, and one an intern from Temple U
 Installed an external certificate authority (ECA) certificate on a government portal that is hosted by Sabre Systems' Lexington Park office.
 
 Responsible for maintaining Sabre's centralized subversion server.
+
+Lead development efforts to revamp custom applications to utilize ExtJS Direct, ASP .NET MVC, and Castle ActiveRecord (NHibernate). Also started segregation of custom applications to dedicated application server to make deployment and maintenance easier.
 
 #### Software Engineer, Commericial Division
 ##### 2002 - 2006

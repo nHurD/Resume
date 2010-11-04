@@ -48,11 +48,11 @@ Philadelphia University, Philadelphia, PA
 #### Software Engineer, Commericial Division
 ##### 2002 - 2006
 
-*Aided in the integration of a document management suite into a custom services management application for a third party moving services company
-*Created a custom project management portal for a school accreditation commission that would recommend volunteers to work on a given project based upon user defined search criteria that included distance, race, gender, and area of expertise
-*Administered and provided custom programming for the website of a local chapter of the American Red Cross
-*Aided in the development of a data collection and analysis system for a hot isostatic pressing services company
-*Aided in the maintenance and customization of Sabre's PreWin industrial pretreatment management application
+* Aided in the integration of a document management suite into a custom services management application for a third party moving services company
+* Created a custom project management portal for a school accreditation commission that would recommend volunteers to work on a given project based upon user defined search criteria that included distance, race, gender, and area of expertise
+* Administered and provided custom programming for the website of a local chapter of the American Red Cross
+* Aided in the development of a data collection and analysis system for a hot isostatic pressing services company
+* Aided in the maintenance and customization of Sabre's PreWin industrial pretreatment management application
 
 ##Awards Received
 

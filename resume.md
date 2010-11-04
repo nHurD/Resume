@@ -13,25 +13,15 @@ Philadelphia University, Philadelphia, PA
 
 **Programming Languages**
 
- * Proficient in:  
-	* PHP 
-	* C# 
-	* LINQ 
-	* HTML
-	* XML
-	* JavaScript
-	* SQL
-	* PERL
-	* ASP.NET MVC
-	* ExtJS
+ * Proficient in: PHP, C#, LINQ, HTML, XML, JavaScript, SQL, PERL, Visual Basic, Shell Scripting
 
- - Experience with: Python, C++, C, Java, NHibernate, NUnit
+ * Experience with: Python, C++, C, Java, NHibernate, NUnit
 
 **Databases**
  
- > Advanced Knowledge in: Microsoft SQL Server (7.0 / 2000 / 2005 / 2008), MySQL, Postgres
+ * Advanced Knowledge in: Microsoft SQL Server (7.0 / 2000 / 2005 / 2008), MySQL, Postgres
 
- > Experience with: Sybase SQL Anywhere, FileMaker Pro, Pervasive, Redis
+ * Experience with: Sybase SQL Anywhere, FileMaker Pro, Pervasive, Redis
 
 **Software**
 

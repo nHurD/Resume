@@ -13,7 +13,7 @@ Philadelphia University, Philadelphia, PA
 
 **Programming Languages**
 
- > Proficient in:  PHP, C#, HTML, XML, JavaScript, SQL, PERL, ASP.NET, Visual Basic
+ > Proficient in:  PHP, C#, LINQ, HTML, XML, JavaScript, SQL, PERL, ASP.NET, Visual Basic
 
  > Experience with: Python, C++, C, Java
 

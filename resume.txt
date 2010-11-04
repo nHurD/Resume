@@ -15,7 +15,7 @@ Philadelphia University, Philadelphia, PA
 
  > Proficient in:  PHP, C#, LINQ, HTML, XML, JavaScript, SQL, PERL, ASP.NET MVC, ExtJS
 
- > Experience with: Python, C++, C, Java, nHibernate, NUnit
+ > Experience with: Python, C++, C, Java, NHibernate, NUnit
 
 **Databases**
  
@@ -68,10 +68,10 @@ Aided in the development of a data collection and analysis system for a hot isos
 
 Aided in the maintenance and customization of Sabre's PreWin industrial pretreatment management application
 
-**Awards Received**
+##Awards Received
 
 > September 2006 - Exceptional Volunteer Award, American Red Cross
 
-**Professional Affiliations**
+##Professional Affiliations
 
 > Infraguard, Philadelphia Chapter

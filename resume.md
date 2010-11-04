@@ -14,16 +14,16 @@ Philadelphia University, Philadelphia, PA
 **Programming Languages**
 
  - Proficient in:  
-	-- PHP 
-	-- C# 
-	-- LINQ 
-	-- HTML
-	-- XML
-	-- JavaScript
-	-- SQL
-	-- PERL
-	-- ASP.NET MVC
-	-- ExtJS
+	- PHP 
+	- C# 
+	- LINQ 
+	- HTML
+	- XML
+	- JavaScript
+	- SQL
+	- PERL
+	- ASP.NET MVC
+	- ExtJS
 
  - Experience with: Python, C++, C, Java, NHibernate, NUnit
 

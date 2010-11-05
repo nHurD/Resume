@@ -11,11 +11,13 @@ Philadelphia University, Philadelphia, PA
 
 ## Systems Proficiency
 
-**Programming Languages**
+**Programming Languages and Frameworks**
 
  > Proficient in: PHP, C#, LINQ, HTML, XML, JavaScript, SQL, PERL, Visual Basic, Shell Scripting
 
- > Experience with: Python, C++, C, Java, NHibernate, NUnit
+ > Experience with: Python, C++, C, Java
+
+ > Frameworks: ASP.NET MVC, ExtJS, Castle ActiveRecord, NUnit, NHibernate, MS Entity Framework
 
 **Databases**
  
